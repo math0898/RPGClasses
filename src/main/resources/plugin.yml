@@ -1,0 +1,8 @@
+name: RPGClasses
+version: '${project.version}'
+main: io.github.math0898.rpgclasses.RPGClasses
+api-version: 1.17
+depend: [ RPGFramework ]
+authors: [ Sugaku ]
+description: The RPG plugin which handles everything pertaining to classes.
+website: https://github.com/math0898/RPGClasses
