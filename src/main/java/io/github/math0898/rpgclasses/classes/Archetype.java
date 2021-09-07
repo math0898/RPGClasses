@@ -13,6 +13,8 @@ import java.util.Map;
  */
 public abstract class Archetype implements Listener {
 
+    //todo add a player variable, player to the constructor, and accessor method.
+
     /**
      * Gets the table of damage resistances for this Archetype. If a damage type is not in this map then its assumed
      * that players with this class take normal damage from that source.
